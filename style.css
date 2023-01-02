@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(221, 170, 94);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-title {
+    margin: 30px;
+    text-align: center;
+}
+
+.main-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.main-list li {
+    margin: 5px;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
+
+.main-image {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.return-link:hover {
+    color: gray;
+}
